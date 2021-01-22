@@ -35,7 +35,7 @@ https://github.com/ashadria1/Team-Profile-Generator
 
 - A video demonstrating the entirety of the app's functionality:
 
-https://github.com/ashadria1/Team-Profile-Generator/tree/main/Develop/Assets
+https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
 
 ![Screenshot of Unit Tests passing](Assets\Unit-Tests-Pass.PNG?raw=true "Screenshot of Unit Tests passing")
 
