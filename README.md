@@ -30,15 +30,11 @@ The app will generate a `team.html` page in the `output` directory, that display
 ## Relevant links:
 
 
-- The URL of the GitHub repository:
+- The URL of the GitHub repository:  https://github.com/ashadria1/Team-Profile-Generator
 
-https://github.com/ashadria1/Team-Profile-Generator
+- A video demonstrating the entirety of the app's functionality:  ![Download video](Develop/Assets/Team-Profile-Generator-Demo.wmv?raw=true "Download video")
 
-- A video demonstrating the entirety of the app's functionality:
+- Link to demo video:  https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
 
-![Download video](Develop/Assets/Team-Profile-Generator-Demo.wmv?raw=true "Download video")
-
-- Link to demo video:
-https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
-
-- ![Screenshot of unit tests in action!](Develop/Assets/Unit-Tests-Pass.PNG?raw=true "Screenshot of unit tests in action!")
+- Screenshot of unit tests passing:
+![Screenshot of unit tests in action!](Develop/Assets/Unit-Tests-Pass.PNG?raw=true "Screenshot of unit tests in action!")
