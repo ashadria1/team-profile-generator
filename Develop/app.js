@@ -149,7 +149,7 @@ function buildHtmlPage() {
     fs.appendFileSync("./output/teamPage.html", "</div></main></body></html>", function (err) {
         if (err) throw err;
     });
-    console.log("Operation completed.")
+    console.log("HTML Page Built!")
 
 }
 
