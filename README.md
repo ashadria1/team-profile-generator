@@ -35,4 +35,4 @@ https://github.com/ashadria1/Team-Profile-Generator
 
 - A video demonstrating the entirety of the app's functionality:
 
-![Team Profile Generator Demo](Assets\Team-Profile-Generator-Demo.wmv?raw=true "Team Profile Generator Demo")
+![Team Profile Generator Demo](https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv "Team Profile Generator Demo")
