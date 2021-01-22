@@ -37,6 +37,6 @@ https://github.com/ashadria1/Team-Profile-Generator
 
 https://github.com/ashadria1/Team-Profile-Generator/tree/main/Develop/assets
 
-![Screenshot of Unit Tests passing](assets\Unit-Tests-Pass.PNG "Screenshot of Unit Tests passing")
+![Screenshot of Unit Tests passing](assets\Unit-Tests-Pass.PNG?raw=true "Screenshot of Unit Tests passing")
 
 
