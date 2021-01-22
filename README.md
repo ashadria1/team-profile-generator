@@ -34,5 +34,5 @@ The app will generate a `team.html` page in the `output` directory, that display
 
 - The URL of the GitHub repository:  https://github.com/ashadria1/Team-Profile-Generator
 
-- A video demonstrating the entirety of the app's functionality:  https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
+- A video demonstrating the entirety of the app's functionality (12.8MB):  https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
 
