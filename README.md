@@ -25,14 +25,16 @@ team consists of a manager, and any number of engineers and interns.
 
 ### Roster output
 
-The app will generate a `team.html` page in the `output` directory, that displays a nicely formatted team roster. Each team member will display Name, Role, ID, and a Role-specific property (School, link to GitHub profile, or office number).
+The app will generate a `team.html` page in the `output` directory that displays a nicely formatted team roster. Each team member will display Name, Role, ID, and a Role-specific property (School, link to GitHub profile, or office number).
 
 ## Relevant links:
 
 - Screenshot of unit tests passing:
+
 ![Screenshot of unit tests in action!](Develop/Assets/Unit-Tests-Pass.PNG?raw=true "Screenshot of unit tests in action!")
 
 - Screenshot of sample output:
+
 ![Screenshot of sample output!](Develop/Assets/Sample-Output.PNG?raw=true "Screenshot of sample output!")
 
 - The URL of the GitHub repository:  https://github.com/ashadria1/Team-Profile-Generator
