@@ -36,7 +36,7 @@ https://github.com/ashadria1/Team-Profile-Generator
 
 - A video demonstrating the entirety of the app's functionality:
 
-![A video demonstrating the entirety of the app's functionality](Develop/Assets/Team-Profile-Generator-Demo.wmv?raw=true "A video demonstrating the entirety of the app's functionality")
+![Download video](Develop/Assets/Team-Profile-Generator-Demo.wmv?raw=true "Download video")
 
 https://github.com/ashadria1/Team-Profile-Generator/blob/main/Develop/Assets/Team-Profile-Generator-Demo.wmv
 
