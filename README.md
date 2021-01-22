@@ -29,6 +29,8 @@ The app will generate a `team.html` page in the `output` directory, that display
 
 ## Relevant links:
 
+![Screenshot of unit tests in action!](Assets\Unit-Tests-Pass.PNG?raw=true "Screenshot of unit tests in action!")
+
 - The URL of the GitHub repository:
 
 https://github.com/ashadria1/Team-Profile-Generator
