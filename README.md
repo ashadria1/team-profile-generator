@@ -18,8 +18,6 @@ so that I have quick access to emails and GitHub profiles
 
 How did I build this? I used the [Inquirer npm package](https://github.com/SBoudrias/Inquirer.js/) to prompt the user for their email, id, and specific information based on their role with the company. I used [File System npm package](https://github.com/OptimalBits/fs.js) to build the HTML page with data input by the user. I used the npm package [Jest 🃏 Delightful JavaScript Testing](https://www.npmjs.com/package/jest) to run unit tests. The demo video demonstrates the process of installing all these npm packages and running unit tests with npm run test.
 
-![Screenshot of Unit Tests passing] (Assets\Unit Tests Pass.PNG "Screenshot of Unit Tests passing")
-
 ### User input
 
 The app will prompt the user to build an engineering team. An engineering
@@ -37,5 +35,8 @@ https://github.com/ashadria1/Team-Profile-Generator
 
 - A video demonstrating the entirety of the app's functionality:
 
-https://github.com/ashadria1/Team-Profile-Generator/tree/main/Develop/Assets
+https://github.com/ashadria1/Team-Profile-Generator/tree/main/Develop/assets
+
+![Screenshot of Unit Tests passing](assets\Unit-Tests-Pass.PNG "Screenshot of Unit Tests passing")
+
 
